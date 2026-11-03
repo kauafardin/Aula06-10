@@ -1,8 +1,0 @@
-# Wokwi Library List
-# Doc: https://docs.wokwi.com/guides/libraries
-#
-# A criptografia (mbedtls) NAO entra aqui: ja vem dentro do core do ESP32.
-
-PubSubClient
-DHT sensor library
-Adafruit Unified Sensor
